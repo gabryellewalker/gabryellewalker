@@ -100,7 +100,7 @@ SQL-based projects demonstrating querying, joins, aggregations, data cleaning, a
 
 ## 📍 Location
 
-New York Metro Area
+Houston, TX → New York Metro Area | Relocating October 2026
 
 ## 🎯 Areas of Interest
 
