@@ -1,85 +1,107 @@
-# Hi, I'm Gabryelle Walker 👋
+# Hi, I'm Gabryelle 👋
 
-## Cybersecurity Professional in Progress
+## Technical Professional | Cybersecurity | Software Engineering | AI & Data
 
-I am completing my Bachelor's degree in Cybersecurity, with an expected graduation date of November 2026. I am building hands-on experience through cybersecurity projects focused on security operations, incident response, threat analysis, vulnerability management, cybercrime investigation, and risk management.
+I build technical solutions across cybersecurity, software engineering, artificial intelligence, automation, and data analytics. My portfolio combines security-focused projects with hands-on development in Python, SQL, APIs, AI tooling, testing, and data analysis.
 
-My portfolio demonstrates my ability to analyze cybersecurity threats, assess organizational risk, investigate security incidents, document digital evidence, develop mitigation strategies, and communicate technical findings to both technical and non-technical audiences.
-
-## 🔐 Cybersecurity Focus Areas
-
-- Security Operations
-- Incident Response
-- Threat Analysis
-- Vulnerability Management
-- Cyber Risk Management
-- Cybercrime Investigation
-- Digital Evidence
-- Phishing & Social Engineering
-- Business Impact Analysis
-- Security Controls
-- Data Analytics
-
-## 🛡️ Featured Cybersecurity Projects
-
-### 🔎 Ransomware Incident Response & Investigation
-
-A fictional enterprise ransomware investigation covering the complete incident-response lifecycle.
-
-**Skills demonstrated:** Incident Response • Digital Evidence • Chain of Custody • Business Impact Analysis • RTO/RPO • Recovery Planning • Executive Communication
-
-[View Ransomware Incident Response Project](https://github.com/gabryellewalker/ransomware-incident-response)
+My interests include building secure and reliable systems, solving technical problems with data, and developing tools that improve system quality, performance, and operational efficiency.
 
 ---
-
-### ⚠️ Enterprise Cybersecurity Risk Management
-
-An enterprise cybersecurity risk assessment demonstrating risk identification, threat analysis, business impact analysis, and mitigation planning.
-
-**Skills demonstrated:** Risk Assessment • Risk Register • Business Impact Analysis • CIA Triad • Threat Analysis • Risk Mitigation
-
-[View Cybersecurity Risk Management Project](https://github.com/gabryellewalker/cybersecurity-risk-management)
-
----
-
-### 🎣 Phishing & Social Engineering Risk Assessment
-
-A cybersecurity analysis of phishing and social engineering threats, employee security awareness, defensive controls, and incident response.
-
-**Skills demonstrated:** Social Engineering • Phishing Analysis • Security Controls • Security Awareness • Risk Assessment • Incident Response
-
-[View Phishing & Social Engineering Project](https://github.com/gabryellewalker/phishing-social-engineering-risk-assessment)
-
----
-
-### 🌐 Internet Layers & Cybercrime Analysis
-
-An analysis of the surface web, deep web, and dark web and their relationship to cybercrime investigations and digital evidence.
-
-**Skills demonstrated:** Cybercrime Investigation • Digital Evidence • Threat Analysis • Incident Investigation • Evidence Preservation
-
-[View Internet Layers & Cybercrime Analysis](https://github.com/gabryellewalker/internet-layers-cybercrime-analysis)
-
-## 🧰 Skills & Tools
-
-**Cybersecurity:**  
-Incident Response • Risk Assessment • Vulnerability Management • Threat Analysis • Digital Evidence • Security Controls • CIA Triad • Business Impact Analysis
-
-**Data & Analysis:**  
-Data Analysis • Microsoft Excel • Security Reporting • Risk Registers • Technical Documentation
-
-**Professional Skills:**  
-Analytical Thinking • Problem Solving • Technical Communication • Research • Documentation
 
 ## 🎓 Education
 
-**Bachelor's Degree in Cybersecurity**  
-Expected November 2026
-
-## 📫 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/gabryelle-walker-59050828b)
+**Bachelor of Science in Cybersecurity**  
+Southern New Hampshire University  
+**Expected Graduation: November 2026**
 
 ---
 
-*This portfolio contains original cybersecurity projects developed for educational and professional demonstration purposes. Fictional scenarios are used where appropriate, and no confidential organizational information or live malicious content is included.*
+## 🛡️ Cybersecurity
+
+- Cybersecurity Analysis
+- Vulnerability Assessment
+- Risk Management
+- Security Controls
+- Incident Response
+- Security Awareness
+- Threat & Risk Analysis
+
+## 💻 Software Engineering
+
+- Python
+- FastAPI
+- REST APIs
+- Git & GitHub
+- Automated Testing
+- Pytest
+- CI/CD
+- GitHub Actions
+- Docker
+
+## 🤖 AI Engineering & Tooling
+
+- Retrieval-Augmented Generation (RAG)
+- LLM Evaluation
+- Prompt Regression Testing
+- AI Model Routing & Fallback
+- AI Observability
+- Feature Flags & Configuration
+- AI Quality Gates
+- AI Platform Architecture
+
+## 📊 Data & Analytics
+
+- SQL
+- Data Analysis
+- Data Validation
+- Power BI
+- Excel
+- Reporting & Visualization
+
+---
+
+## 🚀 Featured Technical Work
+
+### AI Platform Capstone
+End-to-end AI platform architecture integrating document retrieval, model routing and fallback, feature flags, response evaluation, observability, automated testing, CI/CD, and FastAPI.
+
+### RAG Document Retrieval API
+FastAPI retrieval service demonstrating document ingestion, text chunking, local vectorization, similarity search, API validation, and automated testing.
+
+### AI Evaluation CI/CD Quality Gate
+Automated AI evaluation pipeline using Python, pytest, and GitHub Actions to enforce configurable quality thresholds during software delivery.
+
+### AI Observability & Request Tracing
+Python tooling for request tracing, latency monitoring, error analysis, usage metrics, and AI service-health reporting.
+
+### Cybersecurity Projects
+Hands-on projects covering cybersecurity risk, threat analysis, security controls, incident response, and security-focused technical analysis.
+
+### SQL & Data Projects
+SQL-based projects demonstrating querying, joins, aggregations, data cleaning, analytical problem-solving, and business-focused data analysis.
+
+---
+
+## 🔧 Technical Toolkit
+
+**Languages:** Python • SQL
+
+**Backend & APIs:** FastAPI • REST APIs • Pydantic
+
+**AI & Platform:** RAG • LLM Evaluation • AI Observability • Model Routing • Prompt Testing
+
+**DevOps & Testing:** Git • GitHub • GitHub Actions • CI/CD • Docker • Pytest
+
+**Data & BI:** SQL • Power BI • Excel • Data Analysis • Data Validation
+
+**Security:** Risk Analysis • Vulnerability Assessment • Security Controls • Incident Response
+
+---
+
+## 📍 Location
+
+New York Metro Area
+
+## 🎯 Areas of Interest
+
+Cybersecurity • Software Engineering • AI Engineering • Technical Operations • Data & Analytics
